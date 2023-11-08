@@ -39,6 +39,6 @@ def subtract_gst():
 Add_gst = customtkinter.CTkButton(user,text="Add GST",command= add_gst,fg_color="#00ff00",text_color="#000000")
 Add_gst.grid(row=4,column=0,pady=10)
 
-subtract_gst = customtkinter.CTkButton(user,text="Subtract GST",command = subtract_gst,fg_color="#ff3333",text_color="#000000")
+subtract_gst = customtkinter.CTkButton(user,text="Subtract GST",command = subtract_gst,fg_color="#ff4444",text_color="#000000")
 subtract_gst.grid(row=4,column=1,pady=10)
 app.mainloop()
