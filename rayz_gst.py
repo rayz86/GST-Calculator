@@ -1,7 +1,6 @@
 from tkinter import *
 import customtkinter
 from customtkinter import *
-import colors
 
 app = CTk()
 app.title("GST CALCULATOR")
